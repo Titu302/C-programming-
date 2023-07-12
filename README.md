@@ -17,3 +17,4 @@
   ------>
   Run it and let me know how the game is
   
+  * Note:- 'Please don't enter data(integer) <= 0)  
